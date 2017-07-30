@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="edit_item_below">Edit Item Below:</string>
+    <string name="save">Save</string>
+</resources>
